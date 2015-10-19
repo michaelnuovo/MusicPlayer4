@@ -27,6 +27,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
+    
+    // TEST
 
     private ArrayList<com.example.michael.musicplayer4.SongObject> songObectList = new ArrayList<>();
     MediaPlayer mMediaPlayer = new MediaPlayer();
