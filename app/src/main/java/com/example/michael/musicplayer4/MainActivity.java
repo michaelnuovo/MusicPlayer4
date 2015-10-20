@@ -19,7 +19,7 @@ import android.widget.AdapterView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
-import com.example.michael.musicplayer3.R;
+import com.example.michael.musicplayer4.R;
 import com.sothree.slidinguppanel.SlidingUpPanelLayout;
 
 import java.io.File;
@@ -27,7 +27,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-    
+
     // TEST
 
     private ArrayList<com.example.michael.musicplayer4.SongObject> songObectList = new ArrayList<>();
